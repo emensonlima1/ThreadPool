@@ -1,12 +1,12 @@
 # ISS - ThreadPool
 
-Amostra básica de como o IIS processa as requisições de maneira síncronos e assíncrono
+Amostra bÃ¡sica de como o IIS processa as requisiÃ§Ãµes de maneira sÃ­ncrono e assÃ­ncrono
 
-## Referência
+## ReferÃªncia
 
-- [Bruno Brito - ASP.NET e IIS - Anatomia de uma aplicação Web - Como funciona o IIS (Parte 1)](https://www.brunobrito.net.br/anatomia-de-uma-aplicacao-asp-net-iis-parte-i/)
+- [Bruno Brito - ASP.NET e IIS - Anatomia de uma aplicaÃ§Ã£o Web - Como funciona o IIS (Parte 1)](https://www.brunobrito.net.br/anatomia-de-uma-aplicacao-asp-net-iis-parte-i/)
 
-- [Bruno Brito - ASP.NET e IIS - Anatomia de uma aplicação Web - Requisições assíncronas (Parte 2)](https://www.brunobrito.net.br/asp-net-e-iis-anatomia-de-uma-aplicacao-web-parte-ii/)
+- [Bruno Brito - ASP.NET e IIS - Anatomia de uma aplicaÃ§Ã£o Web - RequisiÃ§Ãµes assÃ­ncronas (Parte 2)](https://www.brunobrito.net.br/asp-net-e-iis-anatomia-de-uma-aplicacao-web-parte-ii/)
 
 - [Task-based Asynchronous Pattern](https://www.microsoft.com/en-us/download/details.aspx?id=19957&ref=bruno-brito)
 
@@ -16,4 +16,4 @@ Amostra básica de como o IIS processa as requisições de maneira síncronos e assí
 
 - [Application Pools in IIS](https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/introduction-to-iis-architecture?ref=bruno-brito#http-request-processing-in-iis)
 
-- [Hosting ASP.NET Core Applications on IIS – A Detailed Look](https://codewala.net/2019/01/29/hosting-asp-net-core-applications-in-iis/?ref=bruno-brito)
+- [Hosting ASP.NET Core Applications on IIS â€“ A Detailed Look](https://codewala.net/2019/01/29/hosting-asp-net-core-applications-in-iis/?ref=bruno-brito)
